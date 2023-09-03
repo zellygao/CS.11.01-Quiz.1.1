@@ -26,6 +26,6 @@ Age: 18
 
 Favourite food: 火锅
 
-(Each of First name, Age, Favourite food are on separate lines). 
+(Each of First name, Age, and Favourite food are on separate lines). 
 
 Commit and push your changes to your Github repository. Inspect your Github repository to ensure that all of the code that you wrote is on Github. Submit the link to your Github repository on Schoology. 
