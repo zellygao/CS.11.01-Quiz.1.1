@@ -21,7 +21,9 @@ For each of the questions below, write each programming statement inside the mai
 13. Write a single println statement that prints out the information that the user input (age, firstName, favouriteFood). Ensure that you print out this information in the following format. For example:
 
 First name: 清清
+
 Age: 18
+
 Favourite food: 火锅
 
 Commit and push your changes to your Github repository. Inspect your Github repository to ensure that all of the code that you wrote is on Github. Submit the link to your Github repository on Schoology. 
